@@ -1,0 +1,4 @@
+Contabilidade Rio do Sul->financeiro_contabilidade->36
+Contabilidade Timbó->Financeiro_timbo->351
+Planner Assessoria->Financeiro_assessoria->106,107
+Planner Soluções->Financeiro_planner->1,2

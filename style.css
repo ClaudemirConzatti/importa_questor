@@ -1,0 +1,29 @@
+.font_08{
+	font-size:8px;
+};
+.font_09{
+	font-size:9px;
+};
+.font_10{
+	font-size:10px;
+};
+.font_12{
+	font-size:12px;
+};
+.font_14{
+	font-size:14px;
+};
+.font_16{
+	font-size:16px;
+};
+.font_18{
+	font-size:18px;
+};
+.font_20{
+	font-size:20px;
+};
+
+table.bordasimples {border-collapse: collapse;}
+table.bordasimples tr td {
+	border: 1px solid #CCCCCC;
+}
